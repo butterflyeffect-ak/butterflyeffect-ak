@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Android development**
 
-- 🌱 I’m currently learning **Django , Competitive Programming**
+- 🌱 I’m currently learning **Django , Competitive Programming,ML**
 
 - 🤝 I’m looking for help with **ML**
 
